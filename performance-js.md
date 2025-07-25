@@ -1,9 +1,6 @@
 # Performance em JavaScript: Fundamentos e Armadilhas Comuns
 ## Desmistificando os Principais Problemas de Aplicações Frontend Modernas
 
-### Objetivo da Palestra
-Capacitar desenvolvedores a identificar, diagnosticar e resolver problemas de performance em aplicações JavaScript modernas, com foco prático em métricas reais e otimizações comprovadas baseadas em Core Web Vitals.
-
 ---
 
 ## Estrutura da Apresentação 
